@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <active id="1" name="Kakera" gfx="kakera_item.png" description="A Fragment of a miracle" quality="4" maxcharges="6" chargetype="special" discharged="true"/>
+</items> 
